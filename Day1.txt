@@ -1,0 +1,23 @@
+Python
+__________
+ 
+numpy - Library of python(It contain all the numeric functions.)
+pandas - panal data (It contain table data like struct)
+
+
+Single Layer Perceptron(Hello world of ML) 
+
+scikit - learn --- module library
+
+[histogram]	
+
+
+
+Regular Expression
+
+Data Structure in Python
+==================
+1. tuple
+2. List
+3. Set
+4. Dict(dictonary)
