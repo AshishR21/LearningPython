@@ -1,6 +1,7 @@
 # LearningPython
 Learning Basics Of Python
 
-Project Name : Using calculator through API.
+We can go various Python Projects in verge of learning Python :
 
-Day 1 : Created basic function like ADD, SUBSTRACT, DIVISION, MULTIPLICATION, POWER.
+1. This calculator have various methods like ADD, SUBSTRACT, DIVISION, MULTIPLICATION, POWER.
+2. This can be used by importing Calculator Class
